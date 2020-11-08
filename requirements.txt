@@ -1,0 +1,4 @@
+fastapi
+requests
+beautifulsoup4
+uvicorn
